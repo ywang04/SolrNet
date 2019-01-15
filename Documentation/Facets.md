@@ -7,6 +7,7 @@ There are basically three kinds of facet queries:
  1. querying by field
  1. date facets
  1. arbitrary facet queries
+ 2. Test
 
 Facet queries are issued through the `FacetQueries` property of `QueryOptions`. Then the `QueryOptions` instance is passed to the server instance.
 
